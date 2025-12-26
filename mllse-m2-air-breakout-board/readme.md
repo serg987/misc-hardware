@@ -104,8 +104,8 @@ ensuring the breakout board powers on and off with the host system.
 The PCB is designed to be 100x100mm to take advantage of promotional pricing from many manufacturers. It is essential 
 that the board is manufactured with a **thickness of 0.8mm**.
 
-The Gerbers can be found in the `/gerbers` directory. You can order the board from any manufacturer 
-(e.g., PCBWAY, JLCPCB).
+The Gerbers can be found in the `/gerbers` directory. You can order the board from PCBWAY with this 
+[link](https://www.pcbway.com/project/shareproject/MLLSE_M2_Air_Triple_M_2_Expansion_Breakout_Board_1323e575.html).
 
 ## Mainboard Modification Guide
 
