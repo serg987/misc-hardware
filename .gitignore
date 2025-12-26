@@ -1,0 +1,20 @@
+.idea
+
+# KiCad: ignore generic backups, caches and temporary/build outputs
+
+# Backup folders
+*-backups/
+*-backup/
+
+# Cache files (project/footprint caches)
+*-cache
+*-cache.*
+*.cache
+*.cache.*
+
+# KiCad and editor temp files
+*.kicad_pcb-bak
+*.bak
+*.tmp
+*.log
+*~
